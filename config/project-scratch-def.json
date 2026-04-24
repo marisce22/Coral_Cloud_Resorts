@@ -34,9 +34,6 @@
         "userEngagementSettings": {
             "enableShowSalesforceUserAssist": false
         },
-        "customerDataPlatformSettings": {
-            "enableCustomerDataPlatform": true
-        },
         "EinsteinGptSettings": {
             "enableEinsteinGptPlatform": true
         },
