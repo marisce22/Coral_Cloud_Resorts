@@ -26,7 +26,7 @@
       "dependencies": [
         {
           "package": "Coral Cloud - Base",
-          "versionNumber": "1.12.0.LATEST"
+          "versionNumber": "1.14.0.LATEST"
         }
       ]
     },
@@ -42,10 +42,8 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "65.0",
   "packageAliases": {
-    "Coral Cloud - Base": "0HoWx00000000mPKAQ",
-    "Coral Cloud - Site": "0HoWx00000001ddKAA",
-    "Coral Cloud - Site@1.7.0-1": "04tWx0000001fqjIAA",
-    "Coral Cloud - Base@1.14.0-2": "04tWx0000001taLIAQ"
+    "Coral Cloud - Base": "0HogL0000002F6DSAU",
+    "Coral Cloud - Site": "0HogL0000002F7pSAE",
   },
   "replacements": [
     {
